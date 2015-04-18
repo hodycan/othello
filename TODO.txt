@@ -1,0 +1,13 @@
+TODO:
+    
+    -move status bar to root?
+        -resizing fix (when and if statusbar is in root)
+
+    -freeze game during invalid circle
+        
+    -make status bar look better
+
+    - documentation
+    - invalidmove effect
+
+

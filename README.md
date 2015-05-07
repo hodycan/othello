@@ -1,2 +1,2 @@
 # Othello
-The game reversi in python using tkinter
+The game reversi in python using tkinter.
